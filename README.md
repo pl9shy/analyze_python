@@ -16,5 +16,6 @@
 
 Обратная связь:
 
-  Telegram: https://t.me/pl9shy
-  VK: https://vk.com/nyakhnyuk
+Telegram: https://t.me/pl9shy
+
+VK: https://vk.com/nyakhnyuk
