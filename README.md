@@ -8,8 +8,8 @@
 
 Пример работы кода: ![image](https://github.com/pl9shy/analyze_python/assets/157023698/3844057a-1fcf-4338-9330-62e17adfd7fa)
 Результат, выводимый в конечных файлах: 
-![image](https://github.com/pl9shy/analyze_python/assets/157023698/9eac1df4-027c-451a-bf51-6590c314e87f)
-![image](https://github.com/pl9shy/analyze_python/assets/157023698/f1793ba8-daec-424c-a48a-95797a9670dd)
+![fdfdd](https://github.com/pl9shy/analyze_python/assets/157023698/556eb842-018f-4ed6-aaf4-ad80ba827abd)
+
 
 
 Мой проект:
